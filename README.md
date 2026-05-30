@@ -110,11 +110,7 @@ Contributions are welcome! To contribute:
 
 Please ensure your code follows the existing code style and includes appropriate documentation.
 
-## 📝 License
 
-This project is open source and available under the MIT License. See the LICENSE file for more details.
-
----
 
 **Author**: Kabhisekkumar65  
 **Last Updated**: May 30, 2026
